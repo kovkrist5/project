@@ -4,11 +4,11 @@ h1, body{
 }
 
 body {
-    background-color: rgb(255, 249, 255);
+    background-color: rgb(247, 239, 247);
 }
  
 .button{
-    background-color: #fa9add; 
+    background-color: #d69ac4; 
     border: none;
     color: rgb(255, 240, 255);
     padding: 20px;
@@ -28,5 +28,11 @@ body {
 
   p, h1 {
     font-family: 'Anton', sans-serif;
-    color:rgb(94, 65, 121)
+    color:rgb(140, 91, 185)
   }
+
+ iframe {
+  border-radius: 12px;
+  background-image: url("68747470733a2f2f692e696d6775722e636f6d2f73675973716e632e676966.gif");
+  background-size: contain;
+ }
