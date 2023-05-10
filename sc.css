@@ -4,7 +4,9 @@ h1, body{
 }
 
 body {
+  background-image: url("picmix.com_278531.gif");
     background-color: rgb(247, 239, 247);
+   
 }
  
 .button{
