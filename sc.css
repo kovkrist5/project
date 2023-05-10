@@ -6,3 +6,27 @@ h1, body{
 body {
     background-color: rgb(255, 249, 255);
 }
+ 
+.button{
+    background-color: #fa9add; 
+    border: none;
+    color: rgb(255, 240, 255);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+
+  }
+  .button:hover {
+    background-color: #e78ddb;
+    color: white;
+  }
+
+  p, h1 {
+    font-family: 'Anton', sans-serif;
+    color:rgb(121, 65, 121)
+  }
