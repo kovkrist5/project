@@ -22,11 +22,11 @@ body {
 
   }
   .button:hover {
-    background-color: #e78ddb;
+    background-color: #9a8de7;
     color: white;
   }
 
   p, h1 {
     font-family: 'Anton', sans-serif;
-    color:rgb(121, 65, 121)
+    color:rgb(94, 65, 121)
   }
